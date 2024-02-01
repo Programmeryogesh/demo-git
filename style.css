@@ -3,6 +3,11 @@ body{
     color: black;
     font-size: large;
 }
+
 .name{
     color: red;
+}
+h1{
+    color: red;
+    text-align: center;
 }
